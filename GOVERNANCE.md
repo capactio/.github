@@ -6,19 +6,17 @@
 
 <!-- toc -->
 
-- [Governance](#governance)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Roles And Responsibilities](#roles-and-responsibilities)
-    - [Project lead](#project-lead)
-    - [Maintainers](#maintainers)
-    - [Contributors](#contributors)
-    - [Users](#users)
-    - [Support](#support)
-    - [Contribution Process](#contribution-process)
-    - [Decision-Making Process](#decision-making-process)
-  - [Current roles](#current-roles)
-  - [Credits](#credits)
+- [Overview](#overview)
+- [Roles And Responsibilities](#roles-and-responsibilities)
+  * [Project lead](#project-lead)
+  * [Maintainers](#maintainers)
+  * [Contributors](#contributors)
+  * [Users](#users)
+  * [Support](#support)
+  * [Contribution Process](#contribution-process)
+  * [Decision-Making Process](#decision-making-process)
+- [Current roles](#current-roles)
+- [Credits](#credits)
 
 <!-- tocstop -->
 
@@ -79,9 +77,9 @@ All participants in the community are encouraged to provide support for new user
 
 ### Contribution Process
 
-Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the project mailing list and issue tracker, or might supply patches. The various ways of contributing are described in more detail in our roles in open source document.
+Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the Slack channel and issue tracker, or might supply patches. The various ways of contributing are described in more detail in our roles in open source document.
 
-The developer mailing list is the most appropriate place for a contributor to ask for help when making their first contribution.
+The [Slack channel](CONTRIBUTING.md#support-channels) is the most appropriate place for a contributor to ask for help when making their first contribution.
 
 ### Decision-Making Process
 

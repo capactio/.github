@@ -6,15 +6,13 @@ This document describes the process of contribution to this project. Any type of
 
 <!-- toc -->
 
-- [Contributing to Capact](#contributing-to-capact)
-  - [Table of contents](#table-of-contents)
-  - [Contribution process](#contribution-process)
-    - [Report an issue](#report-an-issue)
-    - [Create a pull request](#create-a-pull-request)
-    - [Get your pull request approved](#get-your-pull-request-approved)
-  - [Support Channels](#support-channels)
-  - [Code of Conduct](#code-of-conduct)
-  - [License](#license)
+- [Contribution process](#contribution-process)
+  * [Report an issue](#report-an-issue)
+  * [Create a pull request](#create-a-pull-request)
+  * [Get your pull request approved](#get-your-pull-request-approved)
+- [Support Channels](#support-channels)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
 
 <!-- tocstop -->
 

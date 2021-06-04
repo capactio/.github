@@ -1,6 +1,7 @@
 ---
 name: Feature request
 about: Suggest how we can improve
+labels: enhancement
 ---
 
 <!-- Thank you for your contribution. Before you submit the issue:

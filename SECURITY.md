@@ -2,4 +2,6 @@
 
 ## Reporting a vulnerability
 
-To report security vulnerabilities in Capact project, please write an email with a detailed description of the issue to [**security@capact.io**](mailto:security@capact.io). If the issue is confirmed, we will release a patch as soon as possible depending on complexity.
+**Please do not report security vulnerabilities through public GitHub issues.**
+
+To report security vulnerabilities in Capact project, please send an email to [**security@capact.io**](mailto:security@capact.io) with a detailed description of the issue. If the issue is confirmed, we will release a patch as soon as possible depending on complexity.

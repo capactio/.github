@@ -16,3 +16,7 @@ labels: enhancement
 ## Reason
 
 <!-- Explain why we should add this feature. -->
+
+## Use cases
+
+<!-- Explain users use-cases and value that this task brings. Here are user profiles https://capact.io/community/user-profiles -->
